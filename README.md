@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi 👋, I'm  Rajan Jha
 I'm a passionate web developer with a knack for creating dynamic, user-friendly websites and applications. My expertise spans across front-end and back-end technologies, and I love bringing ideas to life through code.<br><br>
 
 
